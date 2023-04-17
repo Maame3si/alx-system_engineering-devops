@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -empty |empty | re | cut -d '/' -f 1 | rev:wq
+find . -empty |empty | rev | cut -d '/' -f 1 | rev:wq
